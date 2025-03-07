@@ -18,9 +18,7 @@
 
 Compute the heat capacity ( in J/°C) as follows:-
 
-$$
-\frac{\text{Mass of ZnO} \times (1.084 – 0.9 \Phi + 0.5 \Phi.)}{\text{Corrected Temperature Rise}}
-$$
+<img src="https://latex.codecogs.com/svg.image?$$\frac{\text{Mass&space;of&space;ZnO}\times(1.084&space;0.9\Phi&plus;0.5\Phi.)}{\text{Corrected&space;Temperature&space;Rise}}$$" alt="img">
 
 where- Φ = final temperature of the calorimeter in °C       , Φ. = room temperature in °C 
 
@@ -38,11 +36,7 @@ where- Φ = final temperature of the calorimeter in °C       , Φ. = room tempe
 
 2.  Calculate the heat of solution (in kJ/kg) of unhydrated cement: - 
 
-$$
-\frac{\text{Heat Capacity} \times \text{Corrected Temperature Rise}}{\text{Mean of Sample Corrected for Ignition Loss}} - 0.8 (\Phi - \Phi)
-$$
-
-
+<img src="https://latex.codecogs.com/svg.image?$$\frac{\text{Heat&space;Capacity}\times\text{Corrected&space;Temperature&space;Rise}}{\text{Mean&space;of&space;Sample&space;Corrected&space;for&space;Ignition&space;Loss}}-0.8(\Phi-\Phi)$$">
 
 where 0.8 is the specific heat of unhydrated cement  
 
