@@ -1,6 +1,6 @@
 ### Procedure
 
-**a)Determination of the heat capacity:**
+**a) Determination of the heat capacity:**
 
 1. Add 9.6 ± 0.1 ml of hydrofluoric acid and 388.0 ± 0.1 ml of 2.0 N nitric acid in the calorimeter at a temperature of 27 ± 2°C. 
 
