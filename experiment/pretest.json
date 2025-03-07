@@ -2,38 +2,64 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "What is the primary reason for determining the heat of hydration of cement?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "To measure the setting time of cement",
+        "b": "To prevent thermal cracking in concrete",
+        "c": "To determine the fineness of cement",
+        "d": "To improve the workability of cement"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
+        "b": "Heat of hydration generates heat, which can cause thermal cracking in large concrete structures if not managed properly."
+      }
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Which chemical reaction occurs when water is added to cement?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Oxidation",
+        "b": "Hydration",
+        "c": "Reduction",
+        "d": "Evaporation"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "b": "Hydration is the chemical reaction where cement reacts with water to form a paste that binds aggregates together."
+      }
+    },
+    {
+      "question": "What type of reaction is the hydration of cement?",
+      "answers": {
+        "a": "Endothermic",
+        "b": "Exothermic",
+        "c": "Neutral",
+        "d": "Reversible"
       },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
+      "explanations": {
+        "b": "Hydration of cement is an exothermic reaction, meaning it releases heat as the cement sets and hardens."
+      }
+    },
+    {
+      "question": "Why is gypsum added to cement?",
+      "answers": {
+        "a": "To increase strength",
+        "b": "To accelerate the setting time",
+        "c": "To control the rapid heat and reaction of C₃A",
+        "d": "To improve fineness"
+      },
+      "explanations": {
+        "c": "Gypsum is added to control the rapid hydration of C₃A (tricalcium aluminate), preventing flash setting of cement."
+      }
+    },
+    {
+      "question": "Which apparatus is used to determine the heat of hydration of cement?",
+      "answers": {
+        "a": "Vicat’s apparatus",
+        "b": "Le Chatelier’s apparatus",
+        "c": "Potentiometer",
+        "d": "Calorimeter"
+      },
+      "explanations": {
+        "d": "A calorimeter is used to measure the heat of hydration of cement by quantifying the heat released during hydration."
+      }
     }
   ]
 }
