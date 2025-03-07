@@ -2,38 +2,169 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "What is the primary reason for determining the heat of hydration of cement?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "To measure the setting time of cement",
+        "b": "To prevent thermal cracking in concrete",
+        "c": "To determine the fineness of cement",
+        "d": "To improve the workability of cement"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Which chemical reaction occurs when water is added to cement?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Oxidation",
+        "b": "Hydration",
+        "c": "Reduction",
+        "d": "Evaporation"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What type of reaction is the hydration of cement?",
+      "answers": {
+        "a": "Endothermic",
+        "b": "Exothermic",
+        "c": "Neutral",
+        "d": "Reversible"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Why is gypsum added to cement?",
+      "answers": {
+        "a": "To increase strength",
+        "b": "To accelerate the setting time",
+        "c": "To control the rapid heat and reaction of C₃A",
+        "d": "To improve fineness"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
+    },
+    {
+      "question": "Which apparatus is used to determine the heat of hydration of cement?",
+      "answers": {
+        "a": "Vicat’s apparatus",
+        "b": "Le Chatelier’s apparatus",
+        "c": "Potentiometer",
+        "d": "Calorimeter"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "How does the fineness of cement affect the heat of hydration?",
+      "answers": {
+        "a": "Increases heat of hydration",
+        "b": "Decreases heat of hydration",
+        "c": "Has no effect on hydration",
+        "d": "Only affects setting time"
+      },
+      "correctAnswer": "a",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "What is the role of tricalcium silicate (C₃S) in hydration?",
+      "answers": {
+        "a": "Strength development in the first 28 days",
+        "b": "Reducing shrinkage",
+        "c": "Delaying hydration reaction",
+        "d": "Providing sulfate resistance"
+      },
+      "correctAnswer": "a",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Which compound in cement is responsible for releasing the maximum heat during hydration?",
+      "answers": {
+        "a": "C₂S",
+        "b": "C₃S",
+        "c": "C₃A",
+        "d": "C₄AF"
+      },
+      "correctAnswer": "c",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "How does increasing the water-cement ratio affect the heat of hydration?",
+      "answers": {
+        "a": "Increases heat generation",
+        "b": "Decreases heat generation",
+        "c": "No effect on hydration",
+        "d": "Cement does not hydrate in excess water"
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "What is the ideal temperature for conducting a heat of hydration test?",
+      "answers": {
+        "a": "15 ± 2°C",
+        "b": "27 ± 2°C",
+        "c": "35 ± 2°C",
+        "d": "50 ± 2°C"
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "How does an increase in curing temperature affect the heat of hydration?",
+      "answers": {
+        "a": "Reduces heat generation",
+        "b": "Increases heat generation",
+        "c": "No effect on hydration",
+        "d": "Slows down hydration"
+      },
+      "correctAnswer": "b",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Why is the heat of hydration lower in low-heat cement?",
+      "answers": {
+        "a": "It contains more C₃S",
+        "b": "It contains more C₂S",
+        "c": "It has higher C₃A content",
+        "d": "It reacts faster"
+      },
+      "correctAnswer": "b",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Which hydration product is mainly responsible for strength development in concrete?",
+      "answers": {
+        "a": "Calcium hydroxide",
+        "b": "Tobermorite gel (C-S-H gel)",
+        "c": "Calcium chloride",
+        "d": "Aluminium hydroxide"
+      },
+      "correctAnswer": "b",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "How does the composition of cement influence its heat of hydration?",
+      "answers": {
+        "a": "More C₃S and C₃A increase the heat of hydration",
+        "b": "More C₂S and C₄AF increase the heat of hydration",
+        "c": "More gypsum leads to higher heat generation",
+        "d": "More water increases heat generation"
+      },
+      "correctAnswer": "a",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Why is the heat of hydration significant in mass concrete structures?",
+      "answers": {
+        "a": "It helps in increasing setting time",
+        "b": "It prevents early-age cracking due to excessive heat",
+        "c": "It improves workability",
+        "d": "It allows for faster strength gain"
+      },
+      "correctAnswer": "b",
+      "difficulty": "advanced"
     }
   ]
 }
