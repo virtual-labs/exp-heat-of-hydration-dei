@@ -2,38 +2,169 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "What is the temperature range maintained in the muffle furnace for this experiment?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "1000 to 1050°C",
+        "b": "750 to 800°C",
+        "c": "900 to 950°C",
+        "d": "800 to 950°C"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which IS code is followed for determining the heat of hydration of cement?",
+      "answers": {
+        "a": "IS 4031",
+        "b": "IS 11262",
+        "c": "IS 456",
+        "d": "IS 10262"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Why is it necessary to determine the ignition loss of the cement sample?",
+      "answers": {
+        "a": "To check the impurities in cement",
+        "b": "To measure the unburnt materials in cement",
+        "c": "To correct the final heat calculations",
+        "d": "To determine setting time"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the function of the calorimeter in this experiment?",
+      "answers": {
+        "a": "To measure cement consistency",
+        "b": "To determine heat released during hydration",
+        "c": "To measure the weight of cement",
+        "d": "To check the strength of cement"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the importance of maintaining an insulated environment during the test?",
+      "answers": {
+        "a": "To prevent heat loss",
+        "b": "To increase reaction speed",
+        "c": "To ensure hydration stops",
+        "d": "To reduce heat of hydration"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "What happens if the cement sample is not finely ground before testing?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Increases hydration",
+        "b": "Slows down hydration",
+        "c": "No effect",
+        "d": "Reduces strength"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "How is the heat capacity of the calorimeter calculated?",
+      "answers": {
+        "a": "Using Beckmann readings",
+        "b": "Using weight of cement",
+        "c": "Using water-cement ratio",
+        "d": "Using curing temperature"
+      },
+      "correctAnswer": "a",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "At what intervals should the temperature readings be taken during calorimetry?",
+      "answers": {
+        "a": "Every 5 minutes",
+        "b": "Every 2 minutes",
+        "c": "Every 1 minute",
+        "d": "Every 10 minutes"
       },
       "correctAnswer": "c",
-      "difficulty": "beginner"
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "How does the hydration process influence the setting time of cement?",
+      "answers": {
+        "a": "Higher heat accelerates setting",
+        "b": "Lower heat slows down setting",
+        "c": "Both a and b",
+        "d": "No effect"
+      },
+      "correctAnswer": "c",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "What is the significance of correcting for ignition loss while calculating heat of hydration?",
+      "answers": {
+        "a": "To ensure precise results",
+        "b": "To increase heat of hydration",
+        "c": "To check for impurities",
+        "d": "To determine cement composition"
+      },
+      "correctAnswer": "a",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "How much of the total heat is liberated within the first 3 days?",
+      "answers": {
+        "a": "50%",
+        "b": "35%",
+        "c": "65%",
+        "d": "70%"
+      },
+      "correctAnswer": "a",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Which cement compound is responsible for long-term strength?",
+      "answers": {
+        "a": "C₃S",
+        "b": "C₂S",
+        "c": "C₃A",
+        "d": "C₄AF"
+      },
+      "correctAnswer": "b",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Why is curing necessary after hydration?",
+      "answers": {
+        "a": "To maintain moisture",
+        "b": "To increase setting time",
+        "c": "To decrease hydration",
+        "d": "To increase fineness"
+      },
+      "correctAnswer": "a",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Which type of cement generates the least heat of hydration?",
+      "answers": {
+        "a": "Rapid hardening cement",
+        "b": "Low heat cement",
+        "c": "Ordinary Portland cement",
+        "d": "Sulfate resistant cement"
+      },
+      "correctAnswer": "b",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "What is the significance of hydration products?",
+      "answers": {
+        "a": "Provide strength and durability",
+        "b": "Reduce workability",
+        "c": "Increase porosity",
+        "d": "None of the above"
+      },
+      "correctAnswer": "a",
+      "difficulty": "advanced"
     }
   ]
 }
