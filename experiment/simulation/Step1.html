@@ -1,48 +1,34 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" dir="ltr">
   <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Open+Sans&amp;family=Raleway&amp;display=swap"
-      rel="stylesheet"
-    />
-    <link rel="icon" href="images/favicon.ico" />
-    <link rel="stylesheet" href="css/header.css" />
-    <link rel="stylesheet" href="css/main-content.css" />
-    <link rel="stylesheet" href="css/step1.css" />
-
-    <script src="js/main.js" defer></script>
-    <title>Virtual Labs</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/Loading.css">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&family=Raleway&display=swap" rel="stylesheet">
+    <link rel="icon" href="favicon.ico">
+    <title>Civil Engineering - Virtual Lab</title>
   </head>
-  
-  <body>
+
+  <body style="margin:0; font-family: verdana; color: #000;">
+    <div class="header">
+      <img class="header-img" src="images/header.png" alt="virtual-lab-logo">
+      <h2 class="subject">Virtual Lab</h2>
+      <img class="header-img2" src="images/dei.jpg" alt="dei-logo">
+    </div>
+
+     <div class="topnav" id="myHeader">
+    <a class="active" href="#home"></a>
+    <a href="#news"></a>
+    <a href="#about"></a>
+  </div>
 
     <main>
-      <div class="simulation-container">
-
-        <h2 class="title">Heat of Hydration of Cement</h2>
-        
-
-        <!-- mainStep  -->
-
-        <div class="content-container" id="mainStep" style="visibility: visible;">
-            <h3 class="instruction-main" style>Objective:</h3>
-
-            <p class="content-main" id="content">To determine the heat of hydration of a given sample of cement</p>
-
-            <h3 class="instruction-main" style="top: 100px; width: 300px;">Appratus used:</h3>
-
-            <p class="instruments">
-              Cement, Calorimeter, Mortar and Pestle, Muffle Furnace, Desiccator, Reagents, Camel Hair Brush.
-            </p>
-
-            <img class="instruments-img" id="instruments-img-1" src="images/instruments.png" alt="Instruments"/>
-
-            <button class="next-exp" id="nextToStep1">Start</button>
+      <div id="simscreen">
+        <div id="title">
+          <h3>Heat of hydration of a given sample of cement</h3>
         </div>
 
-
+        
         <!-- STEP 1 -->
 
 
@@ -60,7 +46,7 @@
 
         <!-- IMAGES  -->
 
-        <img class="exp-image-section" id="png1Step1" src="images/step1Images/png1-step1.jpg" alt="png1">
+        <img class="exp-image-section" id="png1Step1" src="images/step1Images/png1-step1.png" alt="png1">
 
         <img class="exp-image-section" id="png2Step1" src="images/step1Images/png2-step1.png" alt="png2">
 
