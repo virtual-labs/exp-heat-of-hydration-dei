@@ -38,7 +38,6 @@ const trans5Step2 = document.querySelector("#trans5Step2");
 const trans6Step2 = document.querySelector("#trans6Step2");
 
 // buttons of step 2
-const assemBtnStep2 = document.querySelector("#assembleStep2");
 const nextToStep3 = document.querySelector("#nextToStep3");
 
 addEventListener("DOMContentLoaded", (evt) => {
@@ -46,51 +45,35 @@ addEventListener("DOMContentLoaded", (evt) => {
     instructionsStep2.textContent = "Take a quantity of zinc oxide sufficient for about six determinations. Ignite the zinc oxide for one hour at 900 to 950°C. Cool the ignited zinc oxide in a desiccator containing anhydrous calcium chloride.";
     
     png1Step2.style.visibility = "visible";
-    assemBtnStep2.style.visibility = "visible";
+    trans1Step2.style.visibility = "visible";
     arr1Step2.style.visibility = "visible";
 });
 
-assemBtnStep2.addEventListener("click", (evt) => {
+trans1Step2.addEventListener("click", (evt) => {
     evt.target.style.visibility = "hidden";
     arr1Step2.style.visibility = "hidden";
     png1Step2.style.visibility = "hidden";
 
     gif1Step2.style.visibility = "visible";
 
-    setTimeout(() => {
-        instructionsStep2.textContent = "Grind the cooled zinc oxide so that it passes through a 150-micron IS Sieve. For each determination, take about 7.0 g of the ignited oxide, heat it again at 900 to 950°C for 5 minutes, and then cool it in the desiccator (cooling period: not less than 2.5 hours and not more than 5 hours) before weighing accurately."
+    setTimeout(()=>{
         gif1Step2.style.visibility = "hidden";
+        instructionsStep2.textContent = "Cover the sieve stack with the lid and place it on the sieve shaker. Start the sieve shaker and wait for sometime."
         png2Step2.style.visibility = "visible";
         arr2Step2.style.visibility = "visible";
-        trans1Step2.style.visibility = "visible";
-    }, 13000);
-});
-
-trans1Step2.addEventListener("click", (evt) => {
-    evt.target.style.visibility = "hidden";
-    arr2Step2.style.visibility = "hidden";
-    png2Step2.style.visibility = "hidden";
-
-    gif2Step2.style.visibility = "visible";
-
-    setTimeout(()=>{
-        gif2Step2.style.visibility = "hidden";
-        instructionsStep2.textContent = "Cover the sieve stack with the lid and place it on the sieve shaker. Start the sieve shaker and wait for sometime."
-        png3Step2.style.visibility = "visible";
-        arr3Step2.style.visibility = "visible";
         trans2Step2.style.visibility = "visible";
     }, 9000);
 });
 
 trans2Step2.addEventListener("click", (evt) => {
     evt.target.style.visibility = "hidden";
-    arr3Step2.style.visibility = "hidden";
-    png3Step2.style.visibility = "hidden";
+    arr2Step2.style.visibility = "hidden";
+    png2Step2.style.visibility = "hidden";
 
-    gif3Step2.style.visibility = "visible";
+    gif2Step2.style.visibility = "visible";
 
     setTimeout(() => {
-        arr4Step2.style.visibility = "visible";
+        arr3Step2.style.visibility = "visible";
         trans3Step2.style.visibility = "visible";
     }, 2000);
 });

@@ -1,20 +1,5 @@
 /* Step2 */
 
-/* BUTTONS  */
-
-.assemble{
-    visibility: hidden;
-    padding: 5px 7px;
-    border-radius: 3px;
-    border: none;
-    color: white;
-    background-color: rgb(20, 117, 228);
-    font-size: 17px;
-    position: absolute;
-    top: 470px;
-    left: 360px;
-}
-
 /* ARROWS  */
 
 #arr1Step2{
