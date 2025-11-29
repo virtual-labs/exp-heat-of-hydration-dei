@@ -98,7 +98,7 @@ trans2Step1.addEventListener("click", (evt) => {
     gif2Step1.style.visibility = "visible";
     
     setTimeout(()=>{
-        instructionsStep1.innerText = "Measure 388.0 ± 0.1 ml of 2.0 N nitric acid  into the calorimeter.";        
+        instructionsStep1.innerText = "Measure 388.0 ± 0.1 ml of 2.0 N nitric acid into the calorimeter using standard flask.";        
         gif2Step1.style.visibility = "hidden";
 
         arr3Step1.style.visibility = "visible";

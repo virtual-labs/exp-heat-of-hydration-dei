@@ -3,75 +3,75 @@
 /* ARROWS  */
 
 #arr1Step2{
-    top: 470px;
-    left: 310px;
+    top: 477px;
+    left: 100.2px;
 }
 
 #arr2Step2{
-    top: 300px;
-    left: 80px;
+    top: 175px;
+    left: 564.1px;
 }
 
 #arr3Step2{
-    top: 140px;
+    top: 290px;
+    left: 573.2px;
 }
 
 #arr4Step2{
-    top: 350px;
+    top: 398px;
+    left: 293.8px;
 }
 
 #arr5Step2{
-    top: 423px;
-    left: 430px;
+    top: 290px;
+    left: 573.2px;
 }
 
 #arr6Step2{
-    top: 165px;
-    left: 580px;
-}
-
-#arr7Step2{
-    top: 350px;
-    left: 50px;
+    top: 398px;
+    left: 190.4px;
 }
 
 /* TRANSBOXES  */
 
 #trans1Step2{
-    top: 290px;
-    left: 130px;
-    width: 160px;
-    height: 60px;
+    top: 474.8px;
+    left: 146.2px;
+    width: 41px;
+    height: 29px;
 }
 
 #trans2Step2{
-    top: 130px;
-    left: 60px;
-    width: 160px;
-    height: 40px;
+    top: 154.7px;
+    left: 564.1px;
+    width: 167.7px;
+    height: 82px;
 }
 
-#trans3Step2, #trans6Step2{
-    top: 280px;
-    left: 60px;
-    width: 160px;
-    height: 230px;
+#trans3Step2{
+    top: 272.4px;
+    left: 541.1px;
+    width: 47.4px;
+    height: 66.7px;
 }
 
 #trans4Step2{
-    top: 423px;
-    left: 477px;
-    width: 20px;
-    height: 20px;
+    top: 390px;
+    left: 230.1px;
+    width: 75.8px;
+    height: 38.2px;
 }
 
 #trans5Step2{
-    top: 155px;
-    left: 400px;
-    width: 180px;
-    height: 40px;
+    top: 272.4px;
+    left: 541.1px;
+    width: 47.4px;
+    height: 66.7px;
 }
 
 #trans6Step2{
-    left: 105px;
+    top: 386.6px;
+    left: 228.1px;
+    width: 85.3px;
+    height: 44.6px;
 }
