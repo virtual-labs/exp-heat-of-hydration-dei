@@ -6,6 +6,11 @@ const instructionsStep4 = document.querySelector("#instructionsStep4");
 // images of step4
 const png1Step4 = document.querySelector("#png1Step4");
 const png2Step4 = document.querySelector("#png2Step4");
+const png3Step4 = document.querySelector("#png3Step4");
+const png4Step4 = document.querySelector("#png4Step4");
+const png5Step4 = document.querySelector("#png5Step4");
+const png6Step4 = document.querySelector("#png6Step4");
+const png7Step4 = document.querySelector("#png7Step4");
 
 // gifs of step4
 const gif1Step4 = document.querySelector("#gif1Step4");
@@ -41,7 +46,7 @@ const nextToStep5 = document.querySelector("#nextToStep5");
 
 addEventListener("DOMContentLoaded", (evt) => {
     step4.style.visibility = "visible";
-    instructionsStep4.textContent = "Try passing the aggregates through the 20-16mm slot in the flakiness gauge. Separate the passing aggregates form the ones that have not passed."
+    instructionsStep4.textContent = "Tare the weighing balance and Weigh 60 g of cement accurately."
     png1Step4.style.visibility = "visible";
     trans1Step4.style.visibility = "visible";
     arr1Step4.style.visibility = "visible";
@@ -52,38 +57,38 @@ trans1Step4.addEventListener("click", (evt) => {
     arr1Step4.style.visibility = "hidden";
     png1Step4.style.visibility = "hidden";
 
-    gif1Step4.style.visibility = "visible";
-
-    setTimeout(()=>{
-        trans2Step4.style.visibility = "visible";
-        arr2Step4.style.visibility = "visible";
-    }, 6000);
+    png2Step4.style.visibility = "visible";
+    trans2Step4.style.visibility = "visible";
+    arr2Step4.style.visibility = "visible";
 });
 
 trans2Step4.addEventListener("click", (evt) => {
     evt.target.style.visibility = "hidden";
     arr2Step4.style.visibility = "hidden";
-    gif1Step4.style.visibility = "hidden";
+    png2Step4.style.visibility = "hidden";
 
-    gif2Step4.style.visibility = "visible";
+    gif1Step4.style.visibility = "visible";
 
     setTimeout(()=>{
+        instructionsStep4.textContent = "Measure 24 ml of distilled water into the cement and mix thoroughly to a uniform consistency."
+        gif1Step4.style.visibility = "hidden";
+        png3Step4.style.visibility = "visible";
         trans3Step4.style.visibility = "visible";
         arr3Step4.style.visibility = "visible";
-    }, 4500);
+    }, 100); //4500
 });
 
 trans3Step4.addEventListener("click", (evt) => {
     evt.target.style.visibility = "hidden";
     arr3Step4.style.visibility = "hidden";
-    gif2Step4.style.visibility = "hidden";
+    gif1Step4.style.visibility = "hidden";
 
-    gif3Step4.style.visibility = "visible";
+    gif2Step4.style.visibility = "visible";
 
     setTimeout(()=>{
         trans4Step4.style.visibility = "visible";
         arr4Step4.style.visibility = "visible";
-    }, 6000);
+    }, 16250);
 });
 
 trans4Step4.addEventListener("click", (evt) => {
