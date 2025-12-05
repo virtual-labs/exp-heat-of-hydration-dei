@@ -107,7 +107,7 @@ main{
     visibility: hidden;
     position: absolute;
     cursor: pointer;
-    border: 2px solid green;
+    /* border: 2px solid green; */
 }
 
 /* ARROWS  */
