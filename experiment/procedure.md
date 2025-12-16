@@ -1,45 +1,46 @@
 ### Procedure
 
-**a) Determination of the heat capacity:**
+**(a) Determination of Heat Capacity of the Calorimeter**
 
-1. Add 9.6 ± 0.1 ml of hydrofluoric acid and 388.0 ± 0.1 ml of 2.0 N nitric acid in the calorimeter at a temperature of 27 ± 2°C. 
+*Step 1:*
+Inspect the wax lining of the calorimeter carefully to ensure that there are no cracks or defects, and then click on the cork to properly seal the calorimeter. Click on the pipette to take the required quantity of nitric acid and then click on the beaker to transfer it into the calorimeter, ensuring that the acids are added without spillage.
 
-2. Take some amount of Zinc oxide adequate for six deductions. Heat about 7 g of zinc oxide to 900-950°C for each determination and then cool it for not less than 2 hours and not more than 5 hours in a desiccator, having anhydrous calcium chloride.  
+*Step 2:*
+Click on the zinc oxide and ignite it for one hour at a temperature of 900–950°C in the muffle furnace. Click on the muffle furnace to open it, then click on the crucible to place the zinc oxide inside. Click on the green button to start the timer for ignition. After completion of heating, click on the crucible and allow the ignited zinc oxide to cool in a desiccator for the specified duration. Click on Next to proceed.
 
-3. It is then ground to pass a 150 μm IS sieve.  
+*Step 3:*
+Click on Tare to tare the balance, then click on the spatula to accurately weigh 7 g of ignited zinc oxide. Click on the crucible to place it again in the muffle furnace for reheating, and after heating, click on the crucible to cool it once more in the desiccator to ensure complete ignition.
 
-4. Set up the calorimeter, and run the stirrer for 5 min to attain a constant temperature. Note down the readings every minute for 5 minutes for initial heating or cooling correction.  
+*Step 4:*
+Assemble the calorimeter properly and click on the Start button to initiate the experiment. Click on the crucible to transfer the zinc oxide into the calorimeter gradually. Record the temperature readings at one-minute intervals during the reaction. Plot the temperature–time graph, and determine the initial and final heating or cooling corrections. These corrections shall be summed and added or subtracted as appropriate to the observed temperature rise. Using the given formula, calculate the heat capacity of the calorimeter.
 
-5. Add ZnO gradually from the funnel which is cleaned with a camel hair brush, throughout 1-2min. Record the temperature at one-minute intervals until the solution is complete. The duration of the solution shall not be more than 20 minutes.  
+**Formula for Heat Capacity of Calorimeter:**
 
-6. Proceed for additional 5 minutes to obtain the final heating or cooling correction.  
+<img src="https://latex.codecogs.com/svg.image?$$\frac{\text{Mass&space;of&space;ZnO}\times(1.084&space;0.9\Phi&plus;0.5\Phi.)}{\text{Corrected&space;Temperature&space;Rise}}$$" alt="img">>
 
-7. The graph is plotted between the initial and final heating or cooling rates and the corresponding calorimeter temperature, called the Beckmann readings. The corrections are then observed for each reading.  
+where
+Φ = final temperature of the calorimeter (°C)
+Φ₀ = room temperature (°C)
 
-Compute the heat capacity ( in J/°C) as follows:-
+**(b) Preparation of Cement Sample**
 
-<img src="https://latex.codecogs.com/svg.image?$$\frac{\text{Mass&space;of&space;ZnO}\times(1.084&space;0.9\Phi&plus;0.5\Phi.)}{\text{Corrected&space;Temperature&space;Rise}}$$" alt="img">
+*Step 5:*
+Click on Tare to tare the weighing balance and then click on the spatula to weigh the required quantity of cement. Click on the measuring cylinder to measure 24 ml of distilled water and add it to the cement. Mix the cement and water thoroughly to obtain a uniform paste. Transfer the paste into the containers, cork them, seal with wax, and store the samples in a vertical position at 27 ± 2°C. Click on Next.
 
-where- Φ = final temperature of the calorimeter in °C       , Φ. = room temperature in °C 
+**(c) Determination of Heat of Solution and Heat of Hydration**
 
-**b) Preparation of cement sample:** 
+*Step 6:*
+Click on Tare to tare the balance and then click on the spatula to weigh about 3 g of unhydrated cement sample for the heat of solution test. Click again on the spatula to weigh an additional 7 g sample for determining the loss on ignition. Click on the crucible to transfer the cement sample into the calorimeter, and then check the final observation table.
 
-1. Take 60 g of cement and 24 ml of distilled water and mix it for about 4 minutes.  
+*Step 7:*
+Click on the crucible to place the sample into the muffle furnace, and click on the muffle furnace to open it. After ignition, click on the crucible and place it into the desiccator for cooling. Click on Tare to tare the plate’s weight, then click on the cement sample to weigh it accurately after ignition.
 
-2. Add this mixture inside three glass/plastic vials, and cork. Seal it with wax and then store it in a vertical position at 27 ± 2°C. 
+*Step 8:*
+Carry out the required calculations and determine the heat of solution of unhydrated cement using the given formula.
 
- 
+<img src="https://latex.codecogs.com/svg.image?$$\frac{\text{Heat&space;Capacity}\times\text{Corrected&space;Temperature&space;Rise}}{\text{Mean&space;of&space;Sample&space;Corrected&space;for&space;Ignition&space;Loss}}-0.8(\Phi-\Phi)$$" alt="Heat of Solution Formula">
 
-**c) Determination of the heat of solution:**
+where 0.8 is the specific heat of unhydrated cement.
 
-1. Take about 3 g of unhydrated cement sample to determine the heat of solution and an additional 7 g of the sample for ignition loss. Perform the procedure for temperature- rise as done for ZnO.  
-
-2.  Calculate the heat of solution (in kJ/kg) of unhydrated cement: - 
-
-<img src="https://latex.codecogs.com/svg.image?$$\frac{\text{Heat&space;Capacity}\times\text{Corrected&space;Temperature&space;Rise}}{\text{Mean&space;of&space;Sample&space;Corrected&space;for&space;Ignition&space;Loss}}-0.8(\Phi-\Phi)$$">
-
-where 0.8 is the specific heat of unhydrated cement  
-
-3. Find the mean of three readings that are calculated within 7 days of mixing of hydrated samples.  
-
-4. Now, open one of the glass vials and grind the cement to pass an 850-micron sieve. Pour this ground sample in a stoppered bottle and then take out about 4.2 g of sample for heat of solution and 7 g of sample for loss on ignition.  
+*Step 9:*
+Calculate the mean of three readings obtained within 7 days of mixing the hydrated cement samples. Finally, compute the heat of hydration of the cement sample using the observed values.
