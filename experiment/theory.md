@@ -8,7 +8,7 @@
   };
 </script>
 
-### Heat of Hydration of Cement
+### Introduction
 
 Cement alone, in its powdered state, does not possess any binding property. When water is added, a complex chemical reaction known as **hydration** begins. This reaction leads to the formation of compounds such as **Calcium Silicate Hydrate (C-S-H gel)** and **Calcium Hydroxide (Ca(OH)₂)**, which are responsible for strength development in hardened cement paste.  
 
