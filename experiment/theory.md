@@ -8,15 +8,14 @@
   };
 </script>
 
-# Heat of Hydration of Cement
+### Introduction
 
 Cement alone, in its powdered state, does not possess any binding property. When water is added, a complex chemical reaction known as **hydration** begins. This reaction leads to the formation of compounds such as **Calcium Silicate Hydrate (C-S-H gel)** and **Calcium Hydroxide (Ca(OH)₂)**, which are responsible for strength development in hardened cement paste.  
 
 Hydration is an **exothermic reaction**, meaning it liberates heat as it progresses. The heat released during this process is known as the **heat of hydration**. In small quantities, this heat dissipates harmlessly. However, in large concrete structures such as dams, bridge piers, or thick foundation slabs, excessive heat accumulation can lead to **thermal cracking**. These cracks weaken the concrete, reducing its durability and mechanical strength. This is why it is important to measure the heat of hydration and control it during construction.
 
----
 
-## Chemical Basis of Heat Generation
+### Chemical Basis of Heat Generation
 
 The heat evolved is associated with the hydration of the major compounds in cement. The simplified reactions are given below:
 
@@ -44,9 +43,8 @@ $$
 C_4AF + 10H_2O \rightarrow C_3AH_6 + CFH + \text{Heat}
 $$
 
----
 
-## Principle
+### Principle
 
 The heat of hydration is determined **calorimetrically**. A known quantity of cement is mixed with water inside a well-insulated calorimeter to prevent heat exchange with the surroundings. The temperature rise is measured over a fixed time interval. Based on the measured temperature difference and the known heat capacity of the calorimeter system, the total heat released is calculated.
 
@@ -68,17 +66,15 @@ $$
 
 Where $m$ is the mass of cement used.
 
----
 
-## Why is This Important?
+### Why is This Important?
 
 - **Prevents cracks** – In mass concrete structures, excessive heat can cause cracks, reducing durability.  
 - **Ensures quality control** – Helps confirm that the cement meets required standards.  
 - **Optimizes strength development** – The rate of heat release gives insight into how quickly the cement will gain strength.  
 
----
 
-## What Affects the Heat of Hydration?
+### What Affects the Heat of Hydration?
 
 The rate at which cement hydrates and releases heat depends on several factors:  
 
@@ -87,9 +83,7 @@ The rate at which cement hydrates and releases heat depends on several factors:
 - **Temperature of hydration** – Higher temperatures speed up the reaction.  
 - **Cement composition** – Different compounds in cement contribute differently to heat generation.  
 
----
-
-## Chemical Reactions Involved
+### Chemical Reactions Involved
 
 Cement is made up of different chemical compounds, and each reacts with water differently:  
 
