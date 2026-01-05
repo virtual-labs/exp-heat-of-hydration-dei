@@ -40,8 +40,8 @@ main{
     position: absolute;
     display: inline-block;
     text-align: justify;
-    top: 30px;
-    left: 100px;
+    top: 20px;
+    left: 105px;
     width: 690px;
     font-size: 18px;
 }
@@ -51,7 +51,6 @@ main{
     display: inline-block;
     text-align: justify;
     top: 70px;
-    left: 140px;
     width: 610px;
     font-size: 18px;
 }
@@ -59,7 +58,7 @@ main{
 .instruction-main{
     position: absolute;
     display: inline-block;
-    top: 30px;
+    top: 20px;
 }
 
 /* TEXT  */
