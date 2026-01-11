@@ -1,46 +1,87 @@
-### Procedure
+#### Step 1: Preparation of zinc oxide and calorimeter
+• Inspect the wax lining of the calorimeter carefully and ensure it is free from faults.
+<br><img src="procedure_images/1.1.png" alt="procedure" width="500"><br>
 
-**(a) Determination of Heat Capacity of the Calorimeter**
+• Measure 9.6 ± 0.1 ml of hydrofluoric acid and add it to the calorimeter.  <br><img src="procedure_images/1.2.png" alt="procedure" width="500"><br>
 
-*Step 1:*
-Inspect the wax lining of the calorimeter carefully to ensure that there are no cracks or defects, and then click on the cork to properly seal the calorimeter. Click on the pipette to take the required quantity of nitric acid and then click on the beaker to transfer it into the calorimeter, ensuring that the acids are added without spillage.
+• Place the crucible containing zinc oxide inside the muffle furnace.<br>
 
-*Step 2:*
-Click on the zinc oxide and ignite it for one hour at a temperature of 900–950°C in the muffle furnace. Click on the muffle furnace to open it, then click on the crucible to place the zinc oxide inside. Click on the green button to start the timer for ignition. After completion of heating, click on the crucible and allow the ignited zinc oxide to cool in a desiccator for the specified duration. Click on Next to proceed.
+• Measure 388.0 ± 0.1 ml of 2.0 N nitric acid into the calorimeter using a standard flask.<br><img src="procedure_images/1.3.png" alt="procedure" width="500"><br>
+ 
+• Close the muffle furnace door securely.<br>
 
-*Step 3:*
-Click on Tare to tare the balance, then click on the spatula to accurately weigh 7 g of ignited zinc oxide. Click on the crucible to place it again in the muffle furnace for reheating, and after heating, click on the crucible to cool it once more in the desiccator to ensure complete ignition.
+• Weigh a sufficient quantity of zinc oxide for about six determinations into a clean crucible. 
+ <br><img src="procedure_images/1.4.png" alt="procedure" width="500"><br>
 
-*Step 4:*
-Assemble the calorimeter properly and click on the Start button to initiate the experiment. Click on the crucible to transfer the zinc oxide into the calorimeter gradually. Record the temperature readings at one-minute intervals during the reaction. Plot the temperature–time graph, and determine the initial and final heating or cooling corrections. These corrections shall be summed and added or subtracted as appropriate to the observed temperature rise. Using the given formula, calculate the heat capacity of the calorimeter.
+• Click on the muffle furnace door to open it .
+ <br><img src="procedure_images/1.5.png" alt="procedure" width="500"><br>
 
-**Formula for Heat Capacity of Calorimeter:**
+• Click on the crucible to place zinc oxide in the muffle furnace.
+ <br><img src="procedure_images/1.6.png" alt="procedure" width="500"><br>
 
-<img src="https://latex.codecogs.com/svg.image?$$\frac{\text{Mass&space;of&space;ZnO}\times(1.084&space;0.9\Phi&plus;0.5\Phi.)}{\text{Corrected&space;Temperature&space;Rise}}$$" alt="img">>
+• Set the temperature to 900–950 °C and ignite zinc oxide for one hour by clicking in the green button.
+ <br><img src="procedure_images/1.7.png" alt="procedure" width="500"><br>
 
-where
-Φ = final temperature of the calorimeter (°C)
-Φ₀ = room temperature (°C)
+• After ignition, remove the crucible with zinc oxide from the furnace by clicking on the furnance door.<br><img src="procedure_images/1.8.png" alt="procedure" width="500"><br>
+ 
+• Click on the crucible to cool the ignited zinc oxide in a desiccator containing anhydrous calcium chloride.<br><img src="procedure_images/1.9.png" alt="procedure" width="500"><br>
+ 
+• Click on NEXT to proceed.<br>
 
-**(b) Preparation of Cement Sample**
+#### Step 2: Heating zinc oxide sample for each determination
+• Click on the tare button of the balance to adjust and ensure exactly about 7.0 g of ignited zinc oxide is measured.<br><img src="procedure_images/2.1.png" alt="procedure" width="500"><br>
+ 
+• Click on the trowel or spatula to add ignited zinc oxide into the crucible until the desired amount is obtained.<br><img src="procedure_images/2.2.png" alt="procedure" width="500"><br>
+ 
+• Click on the furnace door handle to open it .
+<br><img src="procedure_images/2.3.png" alt="procedure" width="500"><br>
 
-*Step 5:*
-Click on Tare to tare the weighing balance and then click on the spatula to weigh the required quantity of cement. Click on the measuring cylinder to measure 24 ml of distilled water and add it to the cement. Mix the cement and water thoroughly to obtain a uniform paste. Transfer the paste into the containers, cork them, seal with wax, and store the samples in a vertical position at 27 ± 2°C. Click on Next.
+• Click on the crucible to place it inside the muffle furnace.<br><img src="procedure_images/2.4.png" alt="procedure" width="500"><br>
+ 
+• Click on the furnace door handle again to close it and heat the crucible at 900–950 °C for 5 minutes.<br><img src="procedure_images/2.5.png" alt="procedure" width="500"><br>
+ 
+• Remove the crucible from the furnace and click on the crucible to place it in the desiccator containing anhydrous calcium chloride to cool the reheated zinc oxide for 2.5–5 hours.
+<br><img src="procedure_images/2.6.png" alt="procedure" width="500"><br>
 
-**(c) Determination of Heat of Solution and Heat of Hydration**
+• Click on NEXT to proceed.<br>
 
-*Step 6:*
-Click on Tare to tare the balance and then click on the spatula to weigh about 3 g of unhydrated cement sample for the heat of solution test. Click again on the spatula to weigh an additional 7 g sample for determining the loss on ignition. Click on the crucible to transfer the cement sample into the calorimeter, and then check the final observation table.
+#### Step 3: Operation of calorimeter and addition of zinc oxide
 
-*Step 7:*
-Click on the crucible to place the sample into the muffle furnace, and click on the muffle furnace to open it. After ignition, click on the crucible and place it into the desiccator for cooling. Click on Tare to tare the plate’s weight, then click on the cement sample to weigh it accurately after ignition.
+• Click on the power switch of the calorimeter unit to start the stirrer and run it for at least 5 minutes to obtain a uniform temperature. Record the temperature (to 0.001°C) at one-minute intervals for 5 minutes to determine the initial heating or cooling correction.<br><img src="procedure_images/3.1.png" alt="procedure" width="500"><br>
 
-*Step 8:*
-Carry out the required calculations and determine the heat of solution of unhydrated cement using the given formula.
+• Click on the crucible containing zinc oxide and pour the powder steadily through the funnel into the calorimeter over 1–2 minutes, then brush the funnel clean with a camel-hair brush.
+<br><img src="procedure_images/3.2.png" alt="procedure" width="500"><br>
 
-<img src="https://latex.codecogs.com/svg.image?$$\frac{\text{Heat&space;Capacity}\times\text{Corrected&space;Temperature&space;Rise}}{\text{Mean&space;of&space;Sample&space;Corrected&space;for&space;Ignition&space;Loss}}-0.8(\Phi-\Phi)$$" alt="Heat of Solution Formula">
+• Click on NEXT to proceed 
 
-where 0.8 is the specific heat of unhydrated cement.
+#### Step 4: Preparation and weighing of cement samples
+• Click on the tare button of the balance to zero it.<br><img src="procedure_images/4.1.png" alt="procedure" width="500"><br>
 
-*Step 9:*
-Calculate the mean of three readings obtained within 7 days of mixing the hydrated cement samples. Finally, compute the heat of hydration of the cement sample using the observed values.
+• Click on the trowel to add cement onto the pan and accurately weigh 60 g of cement.<br><img src="procedure_images/4.2.png" alt="procedure" width="500"><br>
+ 
+• Click on the measuring cylinder to measure 24 ml of distilled water and add it to the weighed cement, then mix thoroughly to a uniform paste.<br><img src="procedure_images/4.3.png" alt="procedure" width="500"><br>
+
+• Click on the tare button of the larger balance to zero it before weighing the main cement batch.<br><img src="procedure_images/4.4.png" alt="procedure" width="500"><br>
+ 
+• Click on the trowel to transfer cement from the bag into the dish until about 3.0 g is obtained for the heat of solution test.<br><img src="procedure_images/4.5.png" alt="procedure" width="500"><br>
+ 
+•	Click on the trowel again to collect and place an additional cement portion of approximately 7.0 g in another dish for loss-on-ignition determination. 
+<br><img src="procedure_images/4.6.png" alt="procedure" width="500"><br>
+
+•	Click on the dish containing the cement sample to place it near the calorimeter for carrying out the temperature-rise determination exactly as in Step 3 using the same calorimeter and correction procedure.<br><img src="procedure_images/4.7.png" alt="procedure" width="500"><br>
+
+• Click on the crucible containing the cement sample and place it inside the muffle furnace, then heat it at 900 °C for 3–4 hours.<br><img src="procedure_images/4.8.png" alt="procedure" width="500"><br>
+
+• Click on the furnance door to remove the heated cement sample from the furnace.<br><img src="procedure_images/4.10.png" alt="procedure" width="500"><br>
+ 
+• Click on the crucible again and place the hot cement sample in a desiccator containing anhydrous calcium chloride to cool it.<br><img src="procedure_images/4.11.png" alt="procedure" width="500"><br>
+ 
+• Click on the tare button of the balance to zero it before weighing the cooled cement sample.
+ <br><img src="procedure_images/4.12.png" alt="procedure" width="500"><br>
+ 
+• Click on the crucible with cooled cement and place it on the balance pan to weigh the sample accurately to the nearest milligram.  
+<br><img src="procedure_images/4.13.png" alt="procedure" width="500"><br>
+
+• Click on NEXT to proceed.
+
+ 
