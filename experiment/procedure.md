@@ -45,7 +45,7 @@
 
 • Click on NEXT to proceed.<br>
 
-### Step 3: Operation of calorimeter and addition of zinc oxide
+#### Step 3: Operation of calorimeter and addition of zinc oxide
 
 • Click on the power switch of the calorimeter unit to start the stirrer and run it for at least 5 minutes to obtain a uniform temperature. Record the temperature (to 0.001°C) at one-minute intervals for 5 minutes to determine the initial heating or cooling correction.<br><img src="procedure_images/3.1.png" alt="procedure" width="500"><br>
 
