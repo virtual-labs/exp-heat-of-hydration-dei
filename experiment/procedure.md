@@ -1,16 +1,16 @@
 #### Step 1: Preparation of zinc oxide and calorimeter
-• Inspect the wax lining of the calorimeter carefully and ensure it is free from faults.
+• Inspect the wax lining of the calorimeter carefully by clicking on it and ensure it is free from faults.
 <br><img src="procedure_images/1.1.png" alt="procedure" width="500"><br>
 
-• Measure 9.6 ± 0.1 ml of hydrofluoric acid and add it to the calorimeter.  <br><img src="procedure_images/1.2.png" alt="procedure" width="500"><br>
+• Click on the dropper and measure 9.6 ± 0.1 ml of hydrofluoric acid and add it to the calorimeter .  <br><img src="procedure_images/1.2.png" alt="procedure" width="500"><br>
 
 • Place the crucible containing zinc oxide inside the muffle furnace.<br>
 
-• Measure 388.0 ± 0.1 ml of 2.0 N nitric acid into the calorimeter using a standard flask.<br><img src="procedure_images/1.3.png" alt="procedure" width="500"><br>
+• Click on the bottle and measure 388.0 ± 0.1 ml of 2.0 N nitric acid and add it into the calorimeter using a standard flask.<br><img src="procedure_images/1.3.png" alt="procedure" width="500"><br>
  
 • Close the muffle furnace door securely.<br>
 
-• Weigh a sufficient quantity of zinc oxide for about six determinations into a clean crucible. 
+• Click on the bottle of zinc oxide and weigh a sufficient quantity for about six determinations into a clean crucible. 
  <br><img src="procedure_images/1.4.png" alt="procedure" width="500"><br>
 
 • Click on the muffle furnace door to open it .
@@ -45,7 +45,7 @@
 
 • Click on NEXT to proceed.<br>
 
-#### Step 3: Operation of calorimeter and addition of zinc oxide
+### Step 3: Operation of calorimeter and addition of zinc oxide
 
 • Click on the power switch of the calorimeter unit to start the stirrer and run it for at least 5 minutes to obtain a uniform temperature. Record the temperature (to 0.001°C) at one-minute intervals for 5 minutes to determine the initial heating or cooling correction.<br><img src="procedure_images/3.1.png" alt="procedure" width="500"><br>
 
@@ -68,7 +68,7 @@
 •	Click on the trowel again to collect and place an additional cement portion of approximately 7.0 g in another dish for loss-on-ignition determination. 
 <br><img src="procedure_images/4.6.png" alt="procedure" width="500"><br>
 
-•	Click on the dish containing the cement sample to place it near the calorimeter for carrying out the temperature-rise determination exactly as in Step 3 using the same calorimeter and correction procedure.<br><img src="procedure_images/4.7.png" alt="procedure" width="500"><br>
+• Click on the dish containing the cement sample to place it near the calorimeter for carrying out the temperature-rise determination exactly as in Step 3 using the same calorimeter and correction procedure.<br><img src="procedure_images/4.7.png" alt="procedure" width="500"><br>
 
 • Click on the crucible containing the cement sample and place it inside the muffle furnace, then heat it at 900 °C for 3–4 hours.<br><img src="procedure_images/4.8.png" alt="procedure" width="500"><br>
 
@@ -83,5 +83,3 @@
 <br><img src="procedure_images/4.13.png" alt="procedure" width="500"><br>
 
 • Click on NEXT to proceed.
-
- 
