@@ -161,7 +161,7 @@ trans6Step4.addEventListener("click", (evt) => {
         png7Step4.style.visibility = "visible";
         trans7Step4.style.visibility = "visible";
         arr7Step4.style.visibility = "visible";
-     }, 4000); //4000
+     }, 4500); //4000
 });
 
 trans7Step4.addEventListener("click", (evt) => {
@@ -177,7 +177,7 @@ trans7Step4.addEventListener("click", (evt) => {
         png8Step4.style.visibility = "visible";
         trans8Step4.style.visibility = "visible";
         arr8Step4.style.visibility = "visible";
-     }, 4000); //4000
+     }, 4500); //4000
 });
 
 trans8Step4.addEventListener("click", (evt) => {
